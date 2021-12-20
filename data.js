@@ -54,7 +54,25 @@ export const getData = function() {
               strImg:"https://th.bing.com/th/id/R.747d7fe400cbc73ff764db80a972ede3?rik=jFNyvjEdcoOrWg&riu=http%3a%2f%2fworld.lisagermany.com%2fwp-content%2fuploads%2f2017%2f05%2f20170424_142943.jpg&ehk=VpDhTgWrRpNVVHNRp2i0ayYYbb%2fBcJlS45HkhENOoLM%3d&risl=&pid=ImgRaw&r=0",
               strInstructions:"The dough for boorsok is more often used yeast, about the same as it is prepared for pizza. Sliced pieces of rolled dough are fried in oil for 20-30 seconds, then transferred from the cauldron to a sieve or colander to properly drain the oil. Slicing depends on the imagination of the cook. You can cut into squares, circles, lozenges, rectangles, use curly knives. Cooking boorsok is one continuous pleasure, you will easily and quickly master the technology of its preparation. "
               strVideo:"https://www.youtube.com/watch?v=9v8jPC7Cj8s",
-          }
+          },
+          { 
+            strName: "Shashlyk",
+            strCategory:"Food",
+            strImg:"https://rutxt.ru/files/15888/original/02658cf8a4.JPG",
+              strIngredient1: "Lamb 2 kg, Liver 2 kg, Onion 1 kg",
+              strPreperation:"Shishkebek is a traditional Kyrgyz shish kebab made from liver or mutton and served with vinegar, onions and salad.",
+              strVideo:"https://youtu.be/3qlsPBtm6dU",
+          },
+         
+          {
+             strName: "Chicken soup",
+             strCategory:"Food",
+             strImg:"https://s1.webspoon.ru/receipts/2012/9/2975/orig_2975_0_xxl.jpg",
+               strIngredient1: "Chikcen meet 1 kg,  Onion 0,3 gr",
+               strIngredient2:"Potato 0,3 gr, Salt+pepper",
+               strPreperation: "Put the washed hams in a saucepan, pour cold water, put on high heat. After 30 minutes, we catch the onion, put the carrot, diced. After 5 minutes, add the peeled and sliced potatoes, taste for salt. Cook for another 10-15 minutes.",
+               strVideo:"https://youtu.be/qhH131jxdvQ",
+           },
     
 
     ]
