@@ -27,8 +27,57 @@ export const getData = function() {
             strMeasure10: "450 grams",
             strInstructions: "https://www.vkusnyblog.ru/recipe/lagman/",
             strVideo: "https://www.youtube.com/watch?v=dFGZs96aJEw&t=1s"
-        }
+        },
+
+        {
+            strName: "beshBarmak",
+            srtСategory: "second course",
+            srtImg: "https://pbs.twimg.com/media/EYijbl3WkAAREVj?format=jpg&name=large",
+            amountOfIngredients: "for 4 servings",
+            strIngredient1: "lamb",
+            strIngredient2: "water",
+            strIngredient3: "onions",
+            strIngredient4: "salt",
+            strIngredient5: "egg",
+            strIngredient6: "flour",
+            strIngredient7: "pepper",
+            strIngredient8: "fresh dill weed",
+            strIngredient9: "bay leaf",
+            strIngredient10: "broth",
+            strMeasure1: "1.5 kg",
+            strMeasure2: "5 l",
+            strMeasure3: "3",
+            strMeasure4: "1 tsp",
+            strMeasure5: "1",
+            strMeasure6: "500 gr",
+            strMeasure7: "1 tsp",
+            strMeasure8: "1 tbsp",
+            strMeasure9: "2",
+            strMeasure10: "4 l",
+            strInstructions: "https://ingmar.app/blog/recipe-the-national-dish-of-kyrgyzstan-besh-barmak/",
+            strVideo: "https://www.youtube.com/watch?v=NeQEWHBzgBU"
+        },
+
+        {
+            strName: "jarma",
+            srtСategory: "drinks",
+            srtImg: "http://kg.kabar.kg/site/assets/files/16620/photo5.730x0.jpg",
+            amountOfIngredients: "for 6 servings",
+            strIngredient1: "crushed wheat",
+            strIngredient2: "sheep fat",
+            strIngredient3: "water",
+            strIngredient4: "flour",
+            strIngredient5: "fermented jarma",
+            strIngredient6: "salt",
+            strMeasure1: "1 cup",
+            strMeasure2: "1 tbsp",
+            strMeasure3: "5 l",
+            strMeasure4: "2 tbsp",
+            strMeasure5: "0.5 l",
+            strMeasure6: "1 tsp",
+            strInstructions: "https://www.peacecorps.gov/stories/how-to-make-jarma-a-traditional-kyrgyz-drink/",
+            strVideo: "https://www.youtube.com/watch?v=pyuag-_WqvM"
+        },
 
     ]
-    
-}
+}   
