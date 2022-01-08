@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    max-width: 100%;
+    display: flex;
+    padding: 50px;
+    background-color: burlywood;
+    box-sizing: border-box;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+h2{
+     text-align: center;
+}
+.interncontainer{
+    font-size:  1rem;
+    margin: 10px;
+    border:solid 1px blanchedalmond;
+    flex:15%;   
+}
+img{
+ height: 70%;
+}
+
+/*    input{
+width: 40%;
+height: 40px;
+margin-left: 50px;
+background-color:goldenrod;
+border-radius: 4px; */
+
+ @media screen and (max-width:768px){
+    .main-container{
+        flex-direction: column;
+    }
+} 
